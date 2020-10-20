@@ -1,5 +1,5 @@
 # clickbate-discord
-run "==setup clickbate" in a discord server you want to play this in
+run "==setup clickbate" in a discord server you want to play this in  
 *note if you have changed the prefix from the default then use that insted of ==
 
 EULA
